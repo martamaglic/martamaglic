@@ -1,0 +1,24 @@
+@charset "utf-8";
+/*CSS Document */
+p {
+	color: indianred ;
+	font-family: New York Times, "DejaVu Serif",Gotham, "serif";
+	font-size: 14px;
+	line-height: 14px;
+	width: 600px;
+	}
+
+
+	h1, h2 {
+		font-family: Gotham, "Helvetica Neue", "sans-serif";
+		color: steelblue;
+		}
+	
+	.pozadina {
+		background-color:honeydew;
+		}
+	
+ 
+	img {
+		height: 200px;
+	} 
